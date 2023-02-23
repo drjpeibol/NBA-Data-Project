@@ -1,9 +1,9 @@
 # NBA Data Science Proyect
 
 ## Intro
-In this repository we will perform data analisys on NBA Players & Teams data. The objective will be to find insights on how good performing teams are composed in terms of players profiles. 
+In this repository we will perform some basic data analisys on NBA Players & Teams data. The objective will be to find insights on how good performing teams are composed in terms of players profiles and try to predict if a team will clinch PO based on those insights. 
 
-We will first create players profiles based on stats and then analyze wich profiles are more related with succesfull teams. 
+First, we will profile players based on their stats. With the profiles created, we will determine how many players of each profile each team has, and then attempt to predict if the team will make it to the playoffs this year. 
 
 ## Data 
 
